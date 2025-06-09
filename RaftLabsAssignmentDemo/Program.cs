@@ -3,24 +3,34 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using RaftLabsAssignement.Config;
 using RaftLabsAssignement.Services;
+using Microsoft.Extensions.Caching.Memory;
+using Polly;
+using Polly.Extensions.Http;
 
 var services = new ServiceCollection();
 
-// Register configuration for ReqresApiOptions manually for demo
+// Manually configure Reqres API options
 services.Configure<ReqresApiOptions>(options =>
 {
     options.BaseUrl = "https://reqres.in/api/";
     options.CacheExpirationSeconds = 60;
 });
 
-// Add logging
+// Logging
 services.AddLogging(config => config.AddConsole());
 
-// Register memory cache
+// Memory cache
 services.AddMemoryCache();
 
-// Register HttpClient and ExternalUserService
-services.AddHttpClient<IExternalUserService, ExternalUserService>();
+// HttpClient with Polly and BaseAddress
+services.AddHttpClient<IExternalUserService, ExternalUserService>(client =>
+{
+    client.BaseAddress = new Uri("https://reqres.in/api/");
+    client.DefaultRequestHeaders.Add("x-api-key", "reqres-free-v1");
+})
+.AddTransientHttpErrorPolicy(policy =>
+    policy.WaitAndRetryAsync(3, retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt))));
+
 
 var serviceProvider = services.BuildServiceProvider();
 
