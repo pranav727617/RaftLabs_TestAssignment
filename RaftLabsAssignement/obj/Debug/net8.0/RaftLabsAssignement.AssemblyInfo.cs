@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RaftLabsAssignement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d32686532b394098121664203a46ccdd23a20c3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65a1b5b5a8ba43dce32fb690aeb24e85fbf6536a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RaftLabsAssignement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RaftLabsAssignement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

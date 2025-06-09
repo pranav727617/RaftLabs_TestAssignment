@@ -7,7 +7,6 @@ using RaftLabsAssignement.Services;
 using Microsoft.Extensions.Caching.Memory;
 using Polly;
 using Polly.Extensions.Http;
-//using RaftLabsAssignement.Services;
 
 var host = Host.CreateDefaultBuilder(args)
     .ConfigureServices((context, services) =>
@@ -16,11 +15,13 @@ var host = Host.CreateDefaultBuilder(args)
 
         services.AddMemoryCache();
 
-        services.AddHttpClient<IExternalUserService, ExternalUserService>();
-
-        services.AddHttpClient<IExternalUserService, ExternalUserService>()
-    .AddTransientHttpErrorPolicy(policy =>
-        policy.WaitAndRetryAsync(3, retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt))));
+        // SINGLE HttpClient registration with Polly and BaseAddress
+        services.AddHttpClient<IExternalUserService, ExternalUserService>(client =>
+        {
+            client.BaseAddress = new Uri(context.Configuration["ReqresApi:BaseUrl"]);
+        })
+        .AddTransientHttpErrorPolicy(policy =>
+            policy.WaitAndRetryAsync(3, retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt))));
 
         services.AddLogging(configure => configure.AddConsole());
     })

@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\test\\externaluserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:test\\externaluserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C483B33-EE65-4AA3-8A13-D617437FDBB6}|..\\RaftLabsAssignmentDemo\\RaftLabsAssignmentDemo.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignmentdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\test\\externaluserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:test\\externaluserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\services\\iexternaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,14 +38,6 @@
       "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:config\\reqresapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\raftlabsassignement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:raftlabsassignement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -49,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -59,39 +59,40 @@
               "RelativeDocumentMoniker": "..\\RaftLabsAssignmentDemo\\Program.cs",
               "ToolTip": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignmentDemo\\Program.cs",
               "RelativeToolTip": "..\\RaftLabsAssignmentDemo\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T20:38:09.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ExternalUserServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Test\\ExternalUserServiceTests.cs",
               "RelativeDocumentMoniker": "Test\\ExternalUserServiceTests.cs",
               "ToolTip": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Test\\ExternalUserServiceTests.cs",
               "RelativeToolTip": "Test\\ExternalUserServiceTests.cs",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAowBMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T18:17:39.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-09T18:11:36.96Z"
+              "WhenOpened": "2025-06-09T18:11:36.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ReqresApiOptions.cs",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Config\\ReqresApiOptions.cs",
               "RelativeDocumentMoniker": "Config\\ReqresApiOptions.cs",
@@ -103,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
@@ -115,20 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ExternalUserService.cs",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Services\\ExternalUserService.cs",
               "RelativeDocumentMoniker": "Services\\ExternalUserService.cs",
               "ToolTip": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Services\\ExternalUserService.cs",
               "RelativeToolTip": "Services\\ExternalUserService.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswEUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwEUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T17:48:23.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IExternalUserService.cs",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Services\\IExternalUserService.cs",
               "RelativeDocumentMoniker": "Services\\IExternalUserService.cs",
@@ -152,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Models\\Users.cs",
@@ -164,15 +165,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:45:09.191Z"
+              "WhenOpened": "2025-06-09T17:45:09.191Z",
+              "EditorCaption": ""
             }
           ]
         }
