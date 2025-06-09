@@ -2984,11 +2984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\RaftLabs assignment\\RaftLabsAssignement\\RaftLabsAssignement.csproj",
+      "projectUniqueName": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\RaftLabsAssignement.csproj",
       "projectName": "RaftLabsAssignement",
-      "projectPath": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\RaftLabs assignment\\RaftLabsAssignement\\RaftLabsAssignement.csproj",
+      "projectPath": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\RaftLabsAssignement.csproj",
       "packagesPath": "C:\\Users\\PRANAV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\RaftLabs assignment\\RaftLabsAssignement\\obj\\",
+      "outputPath": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
