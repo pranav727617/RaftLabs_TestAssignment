@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:test\\externaluserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C483B33-EE65-4AA3-8A13-D617437FDBB6}|..\\RaftLabsAssignmentDemo\\RaftLabsAssignmentDemo.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignmentdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|solutionrelative:services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C483B33-EE65-4AA3-8A13-D617437FDBB6}|..\\RaftLabsAssignmentDemo\\RaftLabsAssignmentDemo.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignmentdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{289C1CBE-5334-4586-B9E4-50B1CC12AE58}|RaftLabsAssignement.csproj|c:\\users\\pranav\\onedrive\\desktop\\push\\raftlab\\raftlabs_testassignment\\raftlabsassignement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -53,13 +53,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignmentDemo\\Program.cs",
               "RelativeDocumentMoniker": "..\\RaftLabsAssignmentDemo\\Program.cs",
               "ToolTip": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignmentDemo\\Program.cs",
               "RelativeToolTip": "..\\RaftLabsAssignmentDemo\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T20:38:09.142Z",
               "EditorCaption": ""
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "Test\\ExternalUserServiceTests.cs",
               "ToolTip": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Test\\ExternalUserServiceTests.cs",
               "RelativeToolTip": "Test\\ExternalUserServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwBMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T18:17:39.243Z",
               "EditorCaption": ""
@@ -116,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ExternalUserService.cs",
               "DocumentMoniker": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Services\\ExternalUserService.cs",
               "RelativeDocumentMoniker": "Services\\ExternalUserService.cs",
               "ToolTip": "C:\\Users\\PRANAV\\OneDrive\\Desktop\\Push\\RaftLab\\RaftLabs_TestAssignment\\RaftLabsAssignement\\Services\\ExternalUserService.cs",
               "RelativeToolTip": "Services\\ExternalUserService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAgwEUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwE8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T17:48:23.32Z",
               "EditorCaption": ""
@@ -173,8 +173,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:45:09.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T17:45:09.191Z"
             }
           ]
         }
