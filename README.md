@@ -26,3 +26,13 @@ Design:
 6. Moq and xUnit - Mock HTTP responses, covered success and failure scenerios
 7. Polly - Added for transient error handling
 
+DemoConsole App:
+Location - RaftLabsAssignement/RaftLabsAssignmentDemo/ExternalUserService.Demo
+
+Run DemoConsole App:
+1. Open Solution in VS
+2. Right-click ExternalUserService.Demo → Set as Startup Project.
+3. Press Run
+
+Output: User: Janet Weaver, Email: janet.weaver@reqres.in
+Press any key to exit...
